@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Wed Sep 17 2025 07:18:22 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "https://85bccf8ftrial-dev-caphanacloud-srv.cfapps.us10-001.hana.ondemand.com/odata/v2/catalog/",
+    "appName": "capbookauthor",
+    "appTitle": "Book & Author",
+    "appDescription": "An SAP Fiori application.",
+    "appNamespace": "com",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.120.25",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.18.7",
+    "template": "List Report Page V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "ListOfBooks"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "author"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
